@@ -12,6 +12,14 @@
 
 [![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+
+### JS-Notes
+So I'm going to dive in here
+Anything that carries forward into the next phase
+- Concept that's actual interesting or creative
+- works
+- code is clear and build-able-upon
+
 ## Table of Contents
 
 - [Books](#books)
